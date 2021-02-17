@@ -1,0 +1,17 @@
+Basic Problem Solving Notes
+
+##############################################################################
+
+2/17/21 - Appple and Orage (HackerRank)
+
+Assumptions:
+
+1) All items in Orange and Apple array are integers
+2) The distance between s and t is a positive value
+
+Time Complexity - O (N + M) || Space Complexity - O (1)
+
+Issues: 
+
+##############################################################################
+
