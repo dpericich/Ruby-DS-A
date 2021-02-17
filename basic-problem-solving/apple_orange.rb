@@ -1,4 +1,4 @@
-#2/17/21 - Appple and Orage (HackerRank)
+# 2/17/21 - Apple and Orange (HackerRank)
 
 def countApplesAndOranges(s, t, a, b, apples, oranges)
     apple_count = 0

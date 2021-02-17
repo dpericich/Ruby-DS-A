@@ -11,7 +11,18 @@ Assumptions:
 
 Time Complexity - O (N + M) || Space Complexity - O (1)
 
-Issues: 
+Issues: N/A
 
 ##############################################################################
 
+2/17/21 - Breaking the Records (HackerRank)
+
+Assumptions: 
+1) The input is an array of integers
+2) The array is not empty
+
+Time Complexity - O (N) || Space Complexity - O (1)
+
+Issues: N/A
+
+##############################################################################
