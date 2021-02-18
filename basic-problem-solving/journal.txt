@@ -26,3 +26,15 @@ Time Complexity - O (N) || Space Complexity - O (1)
 Issues: N/A
 
 ##############################################################################
+
+2/18/21 - Cats and a Mouse (HackerRank)
+
+Assumptions:
+1) All inputs for function are integers
+2) All inputs are integers between 1 and 100
+
+Time Complexity - O (1) || Space Complexity - O (1)
+
+Issues: N/A
+
+##############################################################################
