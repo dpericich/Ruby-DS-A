@@ -38,3 +38,15 @@ Time Complexity - O (1) || Space Complexity - O (1)
 Issues: N/A
 
 ##############################################################################
+
+2/18/21 - Append and Delete (HackerRank)
+
+Assumptions:
+1) The string s and t will be of length between 1 and 100 characters
+2) The number of available operations will be between 1 and 100
+
+Time Complexity - O (N) || Space Complexity - O (1)
+
+Issues: Forgot to assign empty arrays to min/max_arr variables
+
+##############################################################################
