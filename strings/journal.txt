@@ -1,0 +1,14 @@
+Strings Notes
+
+##############################################################################
+
+2/19/21 - Strong Password (HackerRank)
+
+Assumptions:
+
+1) The first argument will always be an integer
+2) The second argument will be a string
+
+Time Complexity - O (N) || Space Complexity - O (1)
+
+Issues: Having issues summing the number of missing character types
