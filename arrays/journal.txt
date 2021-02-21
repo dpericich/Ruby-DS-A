@@ -1,0 +1,19 @@
+Arrays Notes
+
+##############################################################################
+
+2/20/21 - Picking Numbers (HackerRank)
+
+Assumptions:
+
+1) The only argument will be an array of integers
+2) We assume that the array is not yet sorted
+3) We assume that we are able to sort the integers
+4) There will be between 2 and 100 items in the array, inclusive
+5) There will be at least one pair (2 items) that meet the criteria
+
+Time Complexity - O (N) || Space Complexity - O (1)
+
+Issues: N/A
+
+##############################################################################
