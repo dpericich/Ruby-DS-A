@@ -30,3 +30,17 @@ Time Complexity - O (N) || Space Complexity - O (1)
 Issues: N/A 
 
 ##############################################################################
+
+2/21/21 - Jesse and Cookies (HackerRank)
+
+Assumptions:
+1) The input k will be a positive integer 
+2) The input A will be an array of only positive integers
+3) The array will contain at least one character
+
+Time Complexity - O (n ^ 2 log n) || Space Complexity - O (1)
+
+Issues: Had to look up how to setup while loop for iterating over the Cookies
+array 
+
+##############################################################################
