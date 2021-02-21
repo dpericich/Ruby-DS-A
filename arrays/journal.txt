@@ -17,3 +17,16 @@ Time Complexity - O (N) || Space Complexity - O (1)
 Issues: N/A
 
 ##############################################################################
+
+2/20/21 - Left Rotation (HackerRank)
+
+Assumptions:
+1) The inputs will be an array of at least 1 element
+2) The shift value, d, will be at least 1 and no larger than the size of the 
+array
+
+Time Complexity - O (N) || Space Complexity - O (1)
+
+Issues: N/A 
+
+##############################################################################
