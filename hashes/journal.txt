@@ -1,0 +1,22 @@
+Hashes Notes
+
+##############################################################################
+
+2/23/21 - Sum of Unique Elements (LeetCode)
+
+Assumptions:
+
+1) The input is an array of only Numbers
+2) There are no more than 100 numbers in the array, and at least one
+3) The value of the integers are between 1 and 100 inclusive
+
+Time Complexity - O (N + M) || Space Complexity - O (M)
+
+Issues: No issues, but another possible solution. Instead of looping over the 
+original array and create a hash to loop over, we could create a hash, and 
+add the value of each new value to a sum. If we have more that one occurance,
+we subtract the value from the sum.
+
+- New approach increased speed of algo by 47%
+
+##############################################################################
